@@ -20,11 +20,11 @@ Analizar datos de ventas para identificar patrones, tendencias y oportunidades d
 Se generó una gráfica de barras para representar las ventas por ciudad.
 
 ## Estructura del proyecto
-analisis-ventas-python/
-│
-├── analisis.ipynb
-├── README.md
-└── .gitignore
+analisis-ventas-python:
+- .gitignore
+- analisis.ipynb
+- Image.png
+- README.md
 
 ## Conclusión
 Se identificó que ciertas ciudades concentran mayor volumen de ventas, lo cual puede ser aprovechado para estrategias comerciales y marketing.
