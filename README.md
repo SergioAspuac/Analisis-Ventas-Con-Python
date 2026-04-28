@@ -29,7 +29,7 @@ analisis-ventas-python/
 ## Conclusión
 Se identificó que ciertas ciudades concentran mayor volumen de ventas, lo cual puede ser aprovechado para estrategias comerciales y marketing.
 
-Desarrollado por Sergio Aspuac
+Desarrollado por Sergio Aspuac como practica de las tecnologías con py, pandas, matlotlib, jupyter
 
 ## Ejemplo de resultado
 
